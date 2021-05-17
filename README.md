@@ -1,3 +1,6 @@
+
+![A screenshot of several ML generated image files. The files have icons with preview images. The tiny images appear to be distorted sepia-toned photographs of people. Une capture d'écran de plusieurs fichiers d'images générés par Apprentissage machine. Les fichiers comportent des icônes avec des images de prévisualisation. Les petites images semblent être des photographies déformées de personnes en tons sépia.](/image.jpg)
+
 # I knew that if I walked in your footsteps, it would become a ritual | Aarati Akkapeddi
 ## Residency from May 10 to June 19, 2021
 ## Remote (NYC)
